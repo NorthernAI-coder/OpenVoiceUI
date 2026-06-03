@@ -179,7 +179,6 @@ See [`.env.example`](.env.example) for all available options with descriptions.
 | Z.AI (GLM-5-turbo) | Built-in |
 | Groq (Llama, Qwen) | Via OpenClaw |
 | Google Gemini | Via OpenClaw |
-| MiniMax | Via OpenClaw |
 | Ollama (local) | Via adapter |
 | Any LLM | Drop-in gateway plugin |
 
